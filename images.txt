@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.5.15.post1-cu129-runtime
+calciumion/new-api:latest
