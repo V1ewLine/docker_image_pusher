@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+lmsysorg/sglang:latest-cu130-runtime
